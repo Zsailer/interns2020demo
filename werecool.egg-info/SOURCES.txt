@@ -1,0 +1,9 @@
+README.md
+setup.py
+werecool/__init__.py
+werecool/main.py
+werecool.egg-info/PKG-INFO
+werecool.egg-info/SOURCES.txt
+werecool.egg-info/dependency_links.txt
+werecool.egg-info/entry_points.txt
+werecool.egg-info/top_level.txt
