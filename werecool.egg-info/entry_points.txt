@@ -1,0 +1,3 @@
+[console_scripts]
+werecool = werecool.main:main
+
